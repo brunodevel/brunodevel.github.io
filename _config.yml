@@ -43,9 +43,9 @@ github: brunodevel
 # email: myemail@gmail.com
 
 authors:
-    johndoe:
+    bruno:
         name: Bruno Silva
-        bio: A Web Developer fueled by coffee
+        bio: Software Engineer
         external-image: false
         picture: assets/images/profile.jpg
         twitter: brunodevel
